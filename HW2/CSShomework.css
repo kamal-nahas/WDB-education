@@ -1,0 +1,192 @@
+/* Ignore following classes */
+
+* {
+  font-family: "Montserrat", sans-serif;
+  background-color: #eeeeee;
+}
+
+#intro {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin: 50px;
+}
+
+.insideborder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.para {
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+h2 {
+  font-size: medium;
+  font-weight: 200;
+}
+
+/* Classes that you might find useful */
+/* Note* These classes do not cover every possible case to build your flags, you will have to continue to add your own*/
+
+.flag {
+  height: 300px;
+  width: 500px;
+  border-style: solid;
+  margin-bottom: 5rem;
+}
+
+.horiz {
+  display: flex;
+  flex-direction: row;
+}
+
+.twovert {
+  height: 50%;
+}
+
+.threevert {
+  height: 33.3%;
+}
+
+.sixvert {
+  height: 16.7%;
+}
+
+.elevenvert {
+  height: 11.1%;
+}
+
+.threehoriz {
+  width: 33.3%;
+}
+
+.halfh {
+  width: 50%;
+}
+
+.skinny {
+  height: 17.5%;
+}
+
+.fat {
+  height: 30%;
+}
+
+.circle {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 85px;
+  top: 50px;
+}
+
+.flexx {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx2 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx3 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx4 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx5 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx6 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx7 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx8 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+.flexx9 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: unset;
+}
+
+#eagle {
+  position: absolute;
+  align-items: center;
+  width: 150px;
+}
+
+/* Colors/ Feel free to add your own! */
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.darkyellow {
+  background-color: #DEC20B;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.darkblue {
+  background-color: darkblue;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.white {
+  background-color: #fff;
+}
